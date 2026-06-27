@@ -1,5 +1,6 @@
 # AuraDetect 🚀
 
+
 AuraDetect is a lightweight, serverless, real-time object detection web application powered by TensorFlow.js. It runs entirely on your browser—no backend servers, no privacy concerns, just pure AI on the edge.
 
 ## 🌟 Features
@@ -19,4 +20,4 @@ AuraDetect is a lightweight, serverless, real-time object detection web applicat
 3. Start detecting objects!
 
 ---
-*Built for the future of Robotics & AI by [Your Name/Raman].*
+*Built for the future of Robotics & AI by Raman.
